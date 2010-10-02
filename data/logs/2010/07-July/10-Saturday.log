@@ -1,0 +1,55 @@
+
+
+Starting up. 13:25.12
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Raymond Eliza) from 127.0.0.1
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/item/clothing/suit/space
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/item/clothing/mask/gas/emergency
+ADMIN: Electroncis111/(Raymond Eliza) created a /obj/item/weapon/tank/jetpack
+ACCESS: Logout: Electroncis111/(Raymond Eliza)
+
+
+Starting up. 13:35.06
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Vincent Parkinson) from 127.0.0.1
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/item/clothing/suit/space
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/item/weapon/tank/jetpack
+ADMIN: Electroncis111/(Vincent Parkinson) created a /obj/item/clothing/mask/gas
+ADMIN: Electroncis111/(Vincent Parkinson) has toggled Electroncis111/(Vincent Parkinson)'s nodamage to On
+ACCESS: Logout: Electroncis111/(Vincent Parkinson)

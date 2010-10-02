@@ -1,0 +1,39 @@
+
+
+Starting up. 18:14.15
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+
+
+Starting up. 18:15.13
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ACCESS: Logout: Electroncis111/(Electroncis111)
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from 127.0.0.1
+ACCESS: Login: Arcalane/(Arcalane) from 81.103.20.69
+OOC: Bob Marley/Electroncis111 : hiya
+ACCESS: Login: AlphaDetisMegas/(AlphaDetisMegas) from 77.250.125.246
+SAY: Bob Marley/Electroncis111 : dammit
+SAY: Bob Marley/Electroncis111 : no power
+OOC: Arcalane/Arcalane : way too tired for anything more than ghosting
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/crowbar
+ACCESS: Logout: Arcalane/(Arcalane)
+ACCESS: Logout: AlphaDetisMegas/(AlphaDetisMegas)
+OOC: Bob Marley/Electroncis111 : powers out because exactly that
+ACCESS: Logout: Electroncis111/(Bob Marley)

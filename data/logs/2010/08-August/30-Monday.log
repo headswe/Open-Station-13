@@ -1,0 +1,149 @@
+
+
+Starting up. 20:18.42
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Shitty Draudy) from 127.0.0.1
+ACCESS: Logout: Electroncis111/(Shitty Draudy)
+
+
+Starting up. 20:23.12
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Owen Gray) from 127.0.0.1
+ACCESS: Login: Alfie275/(Alfie275) from 88.111.23.192
+ACCESS: Logout: *no client*/(Alfie275)
+ACCESS: Login: Alfie275/(Waquoi Gui) from 88.111.23.192
+OOC: Waquoi Gui/Alfie275 : Kool
+OOC: Owen Gray/Electroncis111 : one mo
+SAY: Owen Gray/Electroncis111 : arrivals
+SAY: Waquoi Gui/Alfie275 : What I have
+SAY: Waquoi Gui/Alfie275 : is
+SAY: Waquoi Gui/Alfie275 : poddors
+SAY: Waquoi Gui/Alfie275 : there
+SAY: Owen Gray/Electroncis111 : FUCKING APC
+SAY: Waquoi Gui/Alfie275 : wait
+SAY: Owen Gray/Electroncis111 : yeah I now
+SAY: Waquoi Gui/Alfie275 : tere
+SAY: Owen Gray/Electroncis111 : you showed me
+SAY: Waquoi Gui/Alfie275 : and
+SAY: Owen Gray/Electroncis111 : button
+SAY: Owen Gray/Electroncis111 : yeah yeah
+SAY: Waquoi Gui/Alfie275 : Uh, did you edit the instance or the individual one?
+SAY: Owen Gray/Electroncis111 : both
+SAY: Waquoi Gui/Alfie275 : And the pixel x and y dont work?
+SAY: Owen Gray/Electroncis111 : it shos up on the editor
+SAY: Owen Gray/Electroncis111 : but not on here
+ACCESS: Login: Ihateoutside/(Ihateoutside) from 88.105.84.34
+SAY: Waquoi Gui/Alfie275 : hmm
+ADMIN: Electroncis111/(Owen Gray) has made Alfie275 a Coder
+ACCESS: Logout: *no client*/(Ihateoutside)
+ACCESS: Login: Ihateoutside/(Allen James) from 88.105.84.34
+SAY: Waquoi Gui/Alfie275 : wall locker works though?
+SAY: Owen Gray/Electroncis111 : haven&#39;t tested
+SAY: Waquoi Gui/Alfie275 : uh
+OOC: Allen James/Ihateoutside : hi
+OOC: Owen Gray/Electroncis111 : hi 
+SAY: Waquoi Gui/Alfie275 : you placed it on the wal
+OOC: Owen Gray/Electroncis111 : this is NOT a finished map
+SAY: Waquoi Gui/Alfie275 : it should be on floor
+SAY: Owen Gray/Electroncis111 : nope
+OOC: Allen James/Ihateoutside : yeah yeah
+ADMIN: Alfie275/(Waquoi Gui) jumped to 81,137,1 in Arrival Shuttle Hallway
+SAY: Owen Gray/Electroncis111 : this is how shit atmos code is
+SAY: Owen Gray/Electroncis111 : follow
+ADMIN: Alfie275/(Waquoi Gui) modified Checkpoint APC's pixel_step_size to 1
+ACCESS: Login: Master of Apples/(Master of Apples) from 86.154.180.237
+SAY: Allen James/Ihateoutside : coming
+SAY: Waquoi Gui/Alfie275 : wierd
+ADMIN: Electroncis111/(Owen Gray) modified Checkpoint APC's x to 57
+SAY: Owen Gray/Electroncis111 : hmm
+SAY: Waquoi Gui/Alfie275 : huh
+SAY: Owen Gray/Electroncis111 : fails
+ACCESS: Logout: *no client*/(Master of Apples)
+ACCESS: Login: Master of Apples/(Collin Paynter) from 86.154.180.237
+SAY: Owen Gray/Electroncis111 : this is how close you have to be
+OOC: Allen James/Ihateoutside : lol oops
+OOC: Collin Paynter/Master of Apples : sup
+ADMIN: Alfie275/(Waquoi Gui) jumped to Security Checkpoint
+ADMIN: Alfie275/(Waquoi Gui) jumped to 85,143,1 in Security Checkpoint
+ADMIN: Electroncis111/(Owen Gray) jumped to Ihateoutside/(Allen James)
+ADMIN: Alfie275/(Waquoi Gui) jumped to 86,143,1 in Security Checkpoint
+ADMIN: Electroncis111/(Owen Gray) has toggled Electroncis111/(Owen Gray)'s nodamage to On
+ADMIN: Alfie275/(Waquoi Gui) jumped to Security Checkpoint
+ADMIN: Alfie275/(Waquoi Gui) jumped to 85,141,1 in Security Checkpoint
+OOC: Owen Gray/Electroncis111 : WOAH SHIT
+ADMIN: Electroncis111/(Owen Gray) healed / Rrvived Ihateoutside/(Allen James)
+ADMIN: Electroncis111/(Owen Gray) jumped to Ihateoutside/(Allen James)
+OOC: Allen James/Ihateoutside : I spaced myself
+ADMIN: Alfie275/(Waquoi Gui) modified wall locker's pixel_y to -15
+ACCESS: Login: Dyjeccu/(Dyjeccu) from 24.179.71.30
+SAY: Waquoi Gui/Alfie275 : hmm
+ADMIN: Electroncis111/(Owen Gray) modified Allen James's x to 79
+OOC: Waquoi Gui/Alfie275 : the lockers pixel stuff works
+OOC: Allen James/Ihateoutside : turn no damage on
+ADMIN: Electroncis111/(Owen Gray) jumped to Ihateoutside/(Allen James)
+OOC: Waquoi Gui/Alfie275 : so place that on the floor
+ADMIN: Alfie275/(Waquoi Gui) modified wall locker's y to 0
+ADMIN: Electroncis111/(Owen Gray) teleported Ihateoutside/(Allen James) to Arrival Shuttle Hallway
+OOC: Waquoi Gui/Alfie275 : lol oops
+ACCESS: Logout: *no client*/(Waquoi Gui)
+ACCESS: Login: Alfie275/(Waquoi Gui) from 88.111.23.192
+OOC: Dyjeccu/Dyjeccu : hello
+ADMIN: Electroncis111/(Owen Gray) jumped to Ihateoutside/(Allen James)
+OOC: Dyjeccu/Dyjeccu : mind if i look?
+ADMIN: Alfie275/(Waquoi Gui) created a /obj/machinery/power/apc
+ACCESS: Logout: *no client*/(Waquoi Gui)
+ACCESS: Login: Alfie275/(Waquoi Gui) from 88.111.23.192
+OOC: Owen Gray/Electroncis111 : nope
+OOC: Collin Paynter/Master of Apples : Me not like brig
+ADMIN: Electroncis111/(Owen Gray) modified Allen James's y to 143
+ADMIN: Alfie275/(Waquoi Gui) modified area power controller's y to 143
+ADMIN: Electroncis111/(Owen Gray) healed / revived Ihateoutside/(Allen James)
+OOC: Collin Paynter/Master of Apples : And it all feels kinda big
+ADMIN: Electroncis111/(Owen Gray) modified Owen Gray's y to 144
+ADMIN: Alfie275/(Waquoi Gui) modified area power controller's pixel_y to -50
+OOC: Collin Paynter/Master of Apples : and the detective&#39;s office shouldn&#39;t be in security
+ADMIN: Electroncis111/(Owen Gray) healed / revived Electroncis111/(Owen Gray)
+ADMIN: Alfie275/(Waquoi Gui) modified area power controller's pixel_y to 50
+OOC: Owen Gray/Electroncis111 : meh
+OOC: Collin Paynter/Master of Apples : :P
+OOC: Owen Gray/Electroncis111 : PM on IRC for suggestions so I can logem
+ACCESS: Logout: *no client*/(Dyjeccu)
+ACCESS: Login: Dyjeccu/(Zane Prevatt) from 24.179.71.30
+OOC: Allen James/Ihateoutside : so someone flashbanhed me
+ADMIN: Alfie275/(Waquoi Gui) modified area power controller's y to 142
+OOC: Waquoi Gui/Alfie275 : sorta works
+ADMIN: Electroncis111/(Owen Gray) healed / Rrvived Ihateoutside/(Allen James)
+OOC: Owen Gray/Electroncis111 : I am a sucessful server :P
+ACCESS: Logout: Dyjeccu/(Zane Prevatt)
+ACCESS: Logout: Master of Apples/(Collin Paynter)
+ADMIN: Electroncis111/(Owen Gray) created a /obj/item/weapon/wrench
+ACCESS: Logout: Ihateoutside/(Allen James)
+SAY: Owen Gray/Electroncis111 : umm
+OOC: Owen Gray/Electroncis111 : I can host a proper map if anyone wants it
+OOC: Owen Gray/Electroncis111 : oh they all left
+ACCESS: Logout: Alfie275/(Waquoi Gui)
+SAY: Owen Gray/Electroncis111 : tut tut
+SAY: Owen Gray/Electroncis111 : oh
+SAY: Owen Gray/Electroncis111 : FAIL
+ADMIN: Electroncis111/(Owen Gray) used everyone is a traitor secret. Objective is say lol a lot
+ADMIN: Electroncis111/(Owen Gray) used secret traitor_all
+ACCESS: Logout: Electroncis111/(Owen Gray)

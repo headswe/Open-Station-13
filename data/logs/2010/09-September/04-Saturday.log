@@ -1,0 +1,312 @@
+
+
+Starting up. 17:01.22
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Dave Smith) from 127.0.0.1
+ADMIN: Electroncis111/(Dave Smith) has toggled Electroncis111/(Dave Smith)'s nodamage to On
+ADMIN: Electroncis111/(Dave Smith) has turned stealth mode ON
+ACCESS: Logout: Electroncis111/(Dave Smith)
+
+
+Starting up. 17:05.58
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+
+
+Starting up. 17:06.10
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Dave Smith) from 127.0.0.1
+ACCESS: Login: Ihateoutside/(Ihateoutside) from 88.105.84.34
+ACCESS: Logout: *no client*/(Ihateoutside)
+ACCESS: Login: Ihateoutside/(Dallas Ashbaugh) from 88.105.84.34
+OOC: Dave Smith/Electroncis111 : hi I hateoutside
+OOC: Dallas Ashbaugh/Ihateoutside : Hello thar
+ACCESS: Login: Master of Apples/(Master of Apples) from 86.147.18.127
+OOC: Dave Smith/Electroncis111 : comeon people
+OOC: Dave Smith/Electroncis111 : hi MoA
+OOC: Dallas Ashbaugh/Ihateoutside : That arrivals apc is dodgy]
+OOC: Dave Smith/Electroncis111 : is it?
+OOC: Dave Smith/Electroncis111 : I don&#39;t care about ooc in ic atm
+OOC: Dallas Ashbaugh/Ihateoutside : The one in the checkpoint
+ACCESS: Login: Dysthymia/(Dysthymia) from 95.114.225.28
+OOC: Dave Smith/Electroncis111 : you mean no power?
+OOC: Dallas Ashbaugh/Ihateoutside : Its not on the wall
+OOC: Dave Smith/Electroncis111 : it is...
+ACCESS: Logout: *no client*/(Master of Apples)
+ACCESS: Login: Master of Apples/(Desmond Johnson) from 86.147.18.127
+OOC: Dave Smith/Electroncis111 : oh there
+OOC: Desmond Johnson/Master of Apples : hay
+ACCESS: Logout: *no client*/(Dysthymia)
+ACCESS: Login: Dysthymia/(Rickena Hill) from 95.114.225.28
+OOC: Dave Smith/Electroncis111 : fixed
+OOC: Desmond Johnson/Master of Apples : Ah yes, well played with the brig.
+ADMIN: Electroncis111/(Dave Smith) modified Checkpoint APC's dir to 4
+OOC: Dave Smith/Electroncis111 : when I re-compile it should be good
+OOC: Desmond Johnson/Master of Apples : Apc in the brig entrance is not on ze wall
+OOC: Dave Smith/Electroncis111 : dammit
+SAY: Rickena Hill/Dysthymia : Hello
+OOC: Dallas Ashbaugh/Ihateoutside : You might want to move those things in checkpoint so people can&#39;t grab it this side
+SAY: Dallas Ashbaugh/Ihateoutside : Hi
+OOC: Dave Smith/Electroncis111 : maybe
+OOC: Desmond Johnson/Master of Apples : Police baton
+OOC: Dave Smith/Electroncis111 : yas
+OOC: Desmond Johnson/Master of Apples : lal
+OOC: Dave Smith/Electroncis111 : like it?
+SAY: Dave Smith/Electroncis111 : ahhahaha
+OOC: Rickena Hill/Dysthymia : I dont think glass walls to brig cells are a good idead
+OOC: Desmond Johnson/Master of Apples : Police btaons already exist properlyy
+OOC: Dave Smith/Electroncis111 : well MoA wanted it
+OOC: Desmond Johnson/Master of Apples : It&#39;s how old brigs use to be, I like it
+SAY: Rickena Hill/Dysthymia : Hello sir
+OOC: Dave Smith/Electroncis111 : ok medsci has no power for somereason
+SAY: Dave Smith/Electroncis111 : hi
+OOC: Dave Smith/Electroncis111 : it drains quickly
+OOC: Desmond Johnson/Master of Apples : Likewise with the bridge
+OOC: Dave Smith/Electroncis111 : grrr
+OOC: Dallas Ashbaugh/Ihateoutside : When you flash cell 5 you are caught
+OOC: Dave Smith/Electroncis111 : meet me outside medbay
+SAY: Rickena Hill/Dysthymia : Damn
+ADMIN: Electroncis111/(Dave Smith) created 5ea /obj/item/weapon/crowbar
+OOC: Dallas Ashbaugh/Ihateoutside : The prisoner wardrobe is in front of the brig cell 3 button
+SAY: Rickena Hill/Dysthymia : That leads straight to space
+ACCESS: Logout: Master of Apples/(Desmond Johnson)
+SAY: Dave Smith/Electroncis111 : oh yeah
+SAY: Dave Smith/Electroncis111 : need to fix that
+OOC: Dave Smith/Electroncis111 : WOAH lag
+SAY: Dave Smith/Electroncis111 : shit
+OOC: Dallas Ashbaugh/Ihateoutside : stuck in security
+OOC: Dave Smith/Electroncis111 : I really need to get the solars up
+OOC: Dave Smith/Electroncis111 : SECRET TIME!
+ADMIN: Electroncis111/(Dave Smith) made all areas powered
+ADMIN: Electroncis111/(Dave Smith) used secret power
+OOC: Dave Smith/Electroncis111 : here comes the lag
+OOC: Dave Smith/Electroncis111 : and wait for it to go away
+OOC: Dave Smith/Electroncis111 : ok
+OOC: Dave Smith/Electroncis111 : all are powered
+OOC: Dave Smith/Electroncis111 : I forgot lights in the bridge area
+SAY: Dave Smith/Electroncis111 : and access aren&#39;t working
+OOC: Dallas Ashbaugh/Ihateoutside : med sci is awesome
+SAY: Dave Smith/Electroncis111 : dammit
+OOC: Dave Smith/Electroncis111 : thank you
+OOC: Dave Smith/Electroncis111 : the access on doors don&#39;t seemt to be working
+OOC: Dallas Ashbaugh/Ihateoutside : The HoP has rather a large quarters
+OOC: Dave Smith/Electroncis111 : yeah and cap
+SAY: Dave Smith/Electroncis111 : ok there should be lights in here
+SAY: Dave Smith/Electroncis111 : ; my lights has gone
+OOC: Rickena Hill/Dysthymia : Why are the identification cars in the HoP Quarter golden?
+OOC: Dave Smith/Electroncis111 : two
+SAY: Dallas Ashbaugh/Ihateoutside : spawn a flashlight for us all would you
+OOC: Rickena Hill/Dysthymia : Yeah. Why golden?
+OOC: Dave Smith/Electroncis111 : for feauture captains
+OOC: Dave Smith/Electroncis111 : *future
+OOC: Rickena Hill/Dysthymia : Bridge is rather larhe
+OOC: Rickena Hill/Dysthymia : lardge
+OOC: Rickena Hill/Dysthymia : fu
+OOC: Dave Smith/Electroncis111 : hmm
+OOC: Rickena Hill/Dysthymia : large
+OOC: Dallas Ashbaugh/Ihateoutside : Heh
+OOC: Dave Smith/Electroncis111 : the lights seem to have disappered
+OOC: Dallas Ashbaugh/Ihateoutside : Jumped down the disposal shute to nowhere
+OOC: Dave Smith/Electroncis111 : haha
+OOC: Rickena Hill/Dysthymia : Can I get more access?
+OOC: Dave Smith/Electroncis111 : access is working?
+OOC: Rickena Hill/Dysthymia : Dunno
+OOC: Rickena Hill/Dysthymia : But I cant get past Security doors
+OOC: Dave Smith/Electroncis111 : I must have put or instead of and on the accesses
+OOC: Dave Smith/Electroncis111 : in the bridge
+OOC: Rickena Hill/Dysthymia : and not past the door to the room south of the bridge
+OOC: Dave Smith/Electroncis111 : come to caps quarters
+OOC: Rickena Hill/Dysthymia : Where is that?
+OOC: Dave Smith/Electroncis111 : door on the bottom of the bridge
+SAY: Rickena Hill/Dysthymia : The hell
+SAY: Dave Smith/Electroncis111 : lemme spawn some
+ACCESS: Login: Evilgrim123/(Evilgrim123) from 86.27.44.241
+ADMIN: Electroncis111/(Dave Smith) created 3ea /obj/item/weapon/card/id/captains_spare
+SAY: Dave Smith/Electroncis111 : I&#39;m lazy
+SAY: Rickena Hill/Dysthymia : I wll modify mine
+ADMIN: Electroncis111/(Dave Smith) jumped to Master of Apples/(Desmond Johnson)
+OOC: Dallas Ashbaugh/Ihateoutside : Im still stuck in a garbage pipe
+ADMIN: Electroncis111/(Dave Smith) modified Desmond Johnson's y to 120
+ADMIN: Electroncis111/(Dave Smith) jumped to Master of Apples/(Desmond Johnson)
+ADMIN: Electroncis111/(Dave Smith) healed / revived Master of Apples/(Desmond Johnson)
+ADMIN: Electroncis111/(Dave Smith) healed / revived Electroncis111/(Dave Smith)
+ADMIN: Electroncis111/(Dave Smith) has toggled Electroncis111/(Dave Smith)'s nodamage to On
+OOC: Dave Smith/Electroncis111 : k one mo
+ADMIN: Electroncis111/(Dave Smith) jumped to Ihateoutside/(Dallas Ashbaugh)
+OOC: Rickena Hill/Dysthymia : A teleportation gun?
+OOC: Dave Smith/Electroncis111 : yas special thing that the cpatain must have picked up
+OOC: Rickena Hill/Dysthymia : It teleports on hit?
+SAY: Dallas Ashbaugh/Ihateoutside : Probably best to tele me somewhere
+OOC: Dave Smith/Electroncis111 : yeah
+ADMIN: Electroncis111/(Dave Smith) deleted the disposal pipe at (89,90,1)
+SAY: Dave Smith/Electroncis111 : magic
+OOC: Rickena Hill/Dysthymia : Why a police batton?
+SAY: Dallas Ashbaugh/Ihateoutside : cheers
+OOC: Dave Smith/Electroncis111 : because
+OOC: Evilgrim123/Evilgrim123 : Whaat? This is.. EWW, This is West&#39;s isn&#39;t it?!
+OOC: Dave Smith/Electroncis111 : ok secret time again
+OOC: Dallas Ashbaugh/Ihateoutside : you need to add power again Electronics
+OOC: Dave Smith/Electroncis111 : nooo
+OOC: Rickena Hill/Dysthymia : Power went out again
+OOC: Dave Smith/Electroncis111 : yeah
+OOC: Dave Smith/Electroncis111 : HERE COMEs LAG!
+ADMIN: Electroncis111/(Dave Smith) made all areas powered
+ADMIN: Electroncis111/(Dave Smith) used secret power
+OOC: Evilgrim123/Evilgrim123 : I&#39;m grateful to play Space Station 13 again, but I have standards. I&#39;m sorry, I&#39;m leaving.
+OOC: Dave Smith/Electroncis111 : and wait for it to go
+ACCESS: Logout: Evilgrim123/(Evilgrim123)
+OOC: Dave Smith/Electroncis111 : THIS IS NOT WEST&#39;S
+OOC: Dallas Ashbaugh/Ihateoutside : This isn&#39;t wests
+OOC: Dallas Ashbaugh/Ihateoutside : its electonics wip map
+OOC: Dave Smith/Electroncis111 : gone
+OOC: Rickena Hill/Dysthymia : lol
+OOC: Dallas Ashbaugh/Ihateoutside : HURR DURR
+OOC: Dave Smith/Electroncis111 : I pmed him
+SAY: Rickena Hill/Dysthymia : Cryo goes here?
+OOC: Dallas Ashbaugh/Ihateoutside : Looks good so far
+OOC: Dave Smith/Electroncis111 : :)
+OOC: Dave Smith/Electroncis111 : except these fucking APCs
+SAY: Rickena Hill/Dysthymia : I wonder is this armos?
+OOC: Dave Smith/Electroncis111 : police batons work REALLY well
+SAY: Dallas Ashbaugh/Ihateoutside : This is for gassing the brig
+SAY: Rickena Hill/Dysthymia : Oh.
+SAY: Rickena Hill/Dysthymia : Is that desirable?
+SAY: Dallas Ashbaugh/Ihateoutside : Its N2O. Sleeping gas
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/clothing/suit/armor/heavy
+OOC: Rickena Hill/Dysthymia : The large cell has two buttons for flash cell
+SAY: Dallas Ashbaugh/Ihateoutside : teehee
+OOC: Rickena Hill/Dysthymia : But if you use one, both flashes are triggered
+OOC: Dave Smith/Electroncis111 : yeah, I see you&#39;ve found the gasing controls
+OOC: Dallas Ashbaugh/Ihateoutside : Thats also an awesome idea
+OOC: Dallas Ashbaugh/Ihateoutside : The brig could do with a tad more room outside the cells
+OOC: Rickena Hill/Dysthymia : Cell 5 doesnt get gassed
+SAY: Dallas Ashbaugh/Ihateoutside : arghhhh
+OOC: Dave Smith/Electroncis111 : really?
+OOC: Rickena Hill/Dysthymia : Yeah
+OOC: Rickena Hill/Dysthymia : Also AAAAA
+OOC: Dave Smith/Electroncis111 : whoops
+OOC: Dallas Ashbaugh/Ihateoutside : It probably takes longer to fill up
+OOC: Dave Smith/Electroncis111 : wrong button
+OOC: Dallas Ashbaugh/Ihateoutside : because its bigger
+ADMIN: Electroncis111/(Dave Smith) has toggled Dysthymia/(Rickena Hill)'s nodamage to On
+SAY: Dave Smith/Electroncis111 : NO DAMAGE!
+ADMIN: Electroncis111/(Dave Smith) has toggled Ihateoutside/(Dallas Ashbaugh)'s nodamage to On
+ADMIN: Electroncis111/(Dave Smith) healed / revived Ihateoutside/(Dallas Ashbaugh)
+SAY: Dallas Ashbaugh/Ihateoutside : aaaaah
+SAY: Dave Smith/Electroncis111 : NO DAMAGE!
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/wrench
+SAY: Dave Smith/Electroncis111 : NOOOOOOOo
+SAY: Dallas Ashbaugh/Ihateoutside : aaaaah
+SAY: Dave Smith/Electroncis111 : TAKE THAT CSUM!
+SAY: Dave Smith/Electroncis111 : TAKE THAT SCuM
+SAY: Dave Smith/Electroncis111 : hahahahaha
+SAY: Dave Smith/Electroncis111 : so what?
+SAY: Dave Smith/Electroncis111 : we all have no damage
+SAY: Dallas Ashbaugh/Ihateoutside : its pretty
+OOC: Dallas Ashbaugh/Ihateoutside : oh god random event
+SAY: Dave Smith/Electroncis111 : I can release them with admin :P
+OOC: Rickena Hill/Dysthymia : Damned flasher
+ADMIN: Electroncis111/(Dave Smith) has toggled Dysthymia/(Rickena Hill)'s nodamage to Off
+ADMIN: Electroncis111/(Dave Smith) has toggled Ihateoutside/(Dallas Ashbaugh)'s nodamage to Off
+ADMIN: Electroncis111/(Dave Smith) has toggled Electroncis111/(Dave Smith)'s nodamage to Off
+OOC: Dave Smith/Electroncis111 : no more godmode now
+OOC: Dave Smith/Electroncis111 : try and kill each other to end the server?
+SAY: Dave Smith/Electroncis111 : KILL ZEM!
+OOC: Dallas Ashbaugh/Ihateoutside : intweresting idea
+OOC: Rickena Hill/Dysthymia : Toxin has no wrench
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/crowbar
+SAY: Dave Smith/Electroncis111 : what the
+SAY: Dave Smith/Electroncis111 : FIRE IN THE WHOLE!
+SAY: Dave Smith/Electroncis111 : oh fail
+SAY: Dave Smith/Electroncis111 : dammit
+OOC: Rickena Hill/Dysthymia : Fuuu. Sleeping gas works to quickly
+ADMIN: Electroncis111/(Dave Smith) healed / revived Ihateoutside/(Dallas Ashbaugh)
+OOC: Dave Smith/Electroncis111 : secret time
+OOC: Dallas Ashbaugh/Ihateoutside : boom boom shake the room
+OOC: Dave Smith/Electroncis111 : hmmm
+OOC: Rickena Hill/Dysthymia : I wanted to make a bomb in toxins
+ADMIN: Electroncis111/(Dave Smith) used everyone is a traitor secret. Objective is kill everyone
+ADMIN: Electroncis111/(Dave Smith) used secret traitor_all
+OOC: Rickena Hill/Dysthymia : But the only wrech was in N2O Hallway
+OOC: Rickena Hill/Dysthymia : And now I am sleeping
+ADMIN: Electroncis111/(Dave Smith) healed / Rrvived Dysthymia/(Rickena Hill)
+ADMIN: Electroncis111/(Dave Smith) healed / revived Dysthymia/(Rickena Hill)
+ADMIN: Electroncis111/(Dave Smith) has toggled Dysthymia/(Rickena Hill)'s nodamage to On
+ADMIN: Electroncis111/(Dave Smith) healed / Rrvived Electroncis111/(Dave Smith)
+ADMIN: Electroncis111/(Dave Smith) healed / revived Electroncis111/(Dave Smith)
+OOC: Rickena Hill/Dysthymia : Lol
+OOC: Rickena Hill/Dysthymia : Fucking cloakers
+OOC: Dallas Ashbaugh/Ihateoutside : hulk cloaker :D:D
+ADMIN: Electroncis111/(Dave Smith) healed / revived Dysthymia/(Rickena Hill)
+OOC: Dave Smith/Electroncis111 : oh traitr
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/cloaking_device
+ADMIN: Electroncis111/(Dave Smith) healed / revived Electroncis111/(Dave Smith)
+OOC: Rickena Hill/Dysthymia : Fucking griefer
+OOC: Rickena Hill/Dysthymia : I wanted to make a bomb
+ADMIN: Electroncis111/(Dave Smith) modified Dave Smith's see_in_dark to 10
+OOC: Dallas Ashbaugh/Ihateoutside : traitor
+OOC: Rickena Hill/Dysthymia : I dun care!
+OOC: Dave Smith/Electroncis111 : lol
+OOC: Rickena Hill/Dysthymia : Everyone is traitor
+ADMIN: Electroncis111/(Dave Smith) modified Dave Smith's see_infrared to 1
+OOC: Rickena Hill/Dysthymia : I could have obliterated the place
+ACCESS: Logout: Ihateoutside/(Dallas Ashbaugh)
+ADMIN: Electroncis111/(Dave Smith) healed / revived Dysthymia/(Rickena Hill)
+OOC: Rickena Hill/Dysthymia : You cant make bombs on luna you know
+ADMIN: Electroncis111/(Dave Smith) created 2ea /obj/item/weapon/incendiarygrenade
+ADMIN: Electroncis111/(Dave Smith) jumped to Dysthymia/(Rickena Hill)
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/mustardbomb
+ADMIN: Electroncis111/(Dave Smith) jumped to Dysthymia/(Rickena Hill)
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/mustardbomb
+OOC: Dave Smith/Electroncis111 : oh where are you
+OOC: Rickena Hill/Dysthymia : Why arent there any gasmaks on the station?
+OOC: Dave Smith/Electroncis111 : try in toxins and gas storage in security
+ADMIN: Electroncis111/(Dave Smith) jumped to Dysthymia/(Rickena Hill)
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/clothing/glasses/thermal
+ADMIN: Electroncis111/(Dave Smith) created 5ea /obj/item/weapon/mustardbomb
+ADMIN: Electroncis111/(Dave Smith) created 5ea /obj/item/weapon/mustardbomb
+OOC: Rickena Hill/Dysthymia : Lol. You had to destroy the pipes
+SAY: Dave Smith/Electroncis111 : wow
+OOC: Dave Smith/Electroncis111 : they were already destroyed
+OOC: Rickena Hill/Dysthymia : Not the last time i checked
+OOC: Dave Smith/Electroncis111 : server has to go
+ADMIN: Electroncis111/(Dave Smith) used secret clear_bombs
+ADMIN: Electroncis111/(Dave Smith) used secret sec_all_clothes
+ADMIN: Electroncis111/(Dave Smith) used secret monkey
+ACCESS: Logout: *no client*/(Dave Smith)
+ACCESS: Login: Electroncis111/(monkey) from 127.0.0.1
+OOC: Rickena Hill/Dysthymia : Lol cheater
+ACCESS: Logout: *no client*/(Rickena Hill)
+ACCESS: Login: Dysthymia/(monkey) from 95.114.225.28
+OOC: monkey (192)/Electroncis111 : server has to go though
+ADMIN: Electroncis111/(monkey (192)) used secret retardify
+OOC: monkey (15)/Dysthymia : I was just grabbing termals
+ADMIN: Electroncis111/(monkey (192)) used secret fakeguns
+ACCESS: Logout: Electroncis111/(monkey (192))
+ACCESS: Logout: Dysthymia/(monkey (15))

@@ -1,0 +1,39 @@
+
+
+Starting up. 09:33.07
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from localhost
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/screwdriver
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/clothing/gloves/yellow
+ACCESS: Logout: Electroncis111/(Bob Marley)
+
+
+Starting up. 20:24.59
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from localhost
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ADMIN: Electroncis111/(Bob Marley) has toggled Electroncis111/(Bob Marley)'s nodamage to On
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/wrench
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/wrench
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/wrench
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/tank/jetpack
+ACCESS: Logout: Electroncis111/(Bob Marley)

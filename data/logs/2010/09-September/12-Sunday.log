@@ -1,0 +1,406 @@
+
+
+Starting up. 14:49.53
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Dave Smith) from 127.0.0.1
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/clothing/gloves/yellow
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/device/multitool
+ACCESS: Logout: Electroncis111/(Dave Smith)
+
+
+Starting up. 14:57.08
+---------------------
+
+ADMIN: Updating jobbanfile!
+ADMIN: Loading Banlist
+
+
+Starting up. 14:57.30
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Dave Smith) from 127.0.0.1
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/clothing/gloves/yellow
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/device/multitool
+ACCESS: Login: Bubble Wrap/(Bubble Wrap) from 86.150.228.158
+OOC: Dave Smith/Electroncis111 : hallo
+OOC: Bubble Wrap/Bubble Wrap : Hi
+ACCESS: Logout: *no client*/(Bubble Wrap)
+ACCESS: Login: Bubble Wrap/(Emily West) from 86.150.228.158
+SAY: Dave Smith/Electroncis111 : this is arrivals
+SAY: Emily West/Bubble Wrap : Looks good
+SAY: Dave Smith/Electroncis111 : map ain&#39;t finished as I said
+SAY: Dave Smith/Electroncis111 : and we have some power issues with medbay but meh
+SAY: Dave Smith/Electroncis111 : security
+SAY: Dave Smith/Electroncis111 : sorage
+SAY: Dave Smith/Electroncis111 : main area
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/card/id/captains_spare
+SAY: Dave Smith/Electroncis111 : there you go
+ACCESS: Login: Gurmil/(Gurmil) from 71.198.8.242
+SAY: Dave Smith/Electroncis111 : just what it says on the door
+SAY: Emily West/Bubble Wrap : Cell flashes!
+SAY: Dave Smith/Electroncis111 : yep
+ACCESS: Logout: *no client*/(Gurmil)
+ACCESS: Login: Gurmil/(Brennan Logue) from 71.198.8.242
+SAY: Dave Smith/Electroncis111 : solars
+SAY: Dave Smith/Electroncis111 : that goes outside
+ADMIN: Electroncis111/(Dave Smith) has toggled Electroncis111/(Dave Smith)'s nodamage to On
+SAY: Dave Smith/Electroncis111 : no air though
+SAY: Dave Smith/Electroncis111 : janitors
+SAY: Dave Smith/Electroncis111 : fun grenades
+SAY: Dave Smith/Electroncis111 : tool stoarage
+SAY: Dave Smith/Electroncis111 : still have to put some stuff in here
+SAY: Dave Smith/Electroncis111 : and a engineers meeting room thingy
+SAY: Dave Smith/Electroncis111 : as we don&#39;t have a engine
+SAY: Emily West/Bubble Wrap : hehe
+SAY: Dave Smith/Electroncis111 : kitchen/bar
+SAY: Dave Smith/Electroncis111 : you put the ID in the mircowave...
+OOC: Brennan Logue/Gurmil : Heh.. i&#39;m QM and I got into toxins through the maintenance delivery door
+OOC: Dave Smith/Electroncis111 : hmmm
+OOC: Dave Smith/Electroncis111 : must change that
+SAY: Dave Smith/Electroncis111 : and we switch it on
+SAY: Dave Smith/Electroncis111 : little fd stage
+SAY: Dave Smith/Electroncis111 : atmos which may work
+SAY: Dave Smith/Electroncis111 : haven&#39;t tested
+OOC: Brennan Logue/Gurmil : Security maintenance too
+SAY: Emily West/Bubble Wrap : Pipes everywhere
+OOC: Dave Smith/Electroncis111 : well some req-access is in need :P
+OOC: Brennan Logue/Gurmil : Indeed
+OOC: Brennan Logue/Gurmil : Aww... no cameras
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/wrench
+OOC: Dave Smith/Electroncis111 : not yet
+SAY: Dave Smith/Electroncis111 : hmm
+SAY: Dave Smith/Electroncis111 : will it work..
+SAY: Dave Smith/Electroncis111 : more solars
+SAY: Dave Smith/Electroncis111 : I set them up earlier
+OOC: Brennan Logue/Gurmil : Looks like no power to medbay
+SAY: Dave Smith/Electroncis111 : oh and medbay
+OOC: Dave Smith/Electroncis111 : we have a bug or something ther
+SAY: Dave Smith/Electroncis111 : I&#39;l go the shortcut way
+SAY: Dave Smith/Electroncis111 : ah hah
+OOC: Brennan Logue/Gurmil : lol
+OOC: Dave Smith/Electroncis111 : it works :)
+OOC: Dave Smith/Electroncis111 : atmos
+OOC: Brennan Logue/Gurmil : random maintenance with n2o filled
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/clothing/mask/gas/swat
+SAY: Dave Smith/Electroncis111 : yeah power prblemmo
+SAY: Dave Smith/Electroncis111 : I&#39;ll leave you to explore :P
+OOC: Dave Smith/Electroncis111 : I can power medbay up
+OOC: Dave Smith/Electroncis111 : but bit of lag when I do
+OOC: Brennan Logue/Gurmil : ah
+OOC: Dave Smith/Electroncis111 : here it comes
+ADMIN: Electroncis111/(Dave Smith) made all areas powered
+ADMIN: Electroncis111/(Dave Smith) used secret power
+OOC: Brennan Logue/Gurmil : Why the lag?
+OOC: Dave Smith/Electroncis111 : WEEEEE
+OOC: Dave Smith/Electroncis111 : I did it easy way
+OOC: Dave Smith/Electroncis111 : power everthing
+OOC: Brennan Logue/Gurmil : ah
+OOC: Emily West/Bubble Wrap : The apc doesnt look like its connected
+OOC: Brennan Logue/Gurmil : Wow.. a bunch of sleeping monkeys
+OOC: Dave Smith/Electroncis111 : lemme look at the map
+SAY: Dave Smith/Electroncis111 : lol
+SAY: Dave Smith/Electroncis111 : atmos partially works
+OOC: Dave Smith/Electroncis111 : ah yes
+OOC: Brennan Logue/Gurmil : Oh you are using N2O to test it?
+OOC: Dave Smith/Electroncis111 : APC ain&#39;t connected
+OOC: Dave Smith/Electroncis111 : yep
+OOC: Dave Smith/Electroncis111 : ok medbay fixed
+OOC: Dave Smith/Electroncis111 : brb
+ADMIN: Electroncis111/(Dave Smith) healed / revived Bubble Wrap/(Emily West)
+ADMIN: Electroncis111/(Dave Smith) healed / revived Bubble Wrap/(Emily West)
+OOC: Brennan Logue/Gurmil : This is a big ship
+OOC: Dave Smith/Electroncis111 : ok anyone mind if I restart to get rid of the N20?
+OOC: Emily West/Bubble Wrap : nope
+ADMIN: Electroncis111/(Dave Smith) initiated a reboot.
+OOC: Brennan Logue/Gurmil : go for it
+ACCESS: Logout: Electroncis111/(Dave Smith)
+ACCESS: Logout: Bubble Wrap/(Emily West)
+ACCESS: Logout: Gurmil/(Brennan Logue)
+
+
+Starting up. 15:17.40
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 192.168.1.5
+ACCESS: Login: Bubble Wrap/(Bubble Wrap) from 86.150.228.158
+ACCESS: Logout: Electroncis111/(Electroncis111)
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Frank Ivanov) from 127.0.0.1
+OOC: Frank Ivanov/Electroncis111 : woah that was start lag for me
+ACCESS: Logout: *no client*/(Bubble Wrap)
+ACCESS: Login: Bubble Wrap/(Emily West) from 86.150.228.158
+ACCESS: Login: Gurmil/(Gurmil) from 71.198.8.242
+ACCESS: Logout: *no client*/(Gurmil)
+ACCESS: Login: Gurmil/(Mario Sullivan) from 71.198.8.242
+OOC: Frank Ivanov/Electroncis111 : medbay won&#39;t be fixed
+OOC: Frank Ivanov/Electroncis111 : as I didn&#39;t rebbot
+SAY: Frank Ivanov/Electroncis111 : ; I&#39;ve got the solars
+OOC: Mario Sullivan/Gurmil : you know your air scrubbers are off
+OOC: Mario Sullivan/Gurmil : at least some of them
+OOC: Frank Ivanov/Electroncis111 : yep
+OOC: Frank Ivanov/Electroncis111 : but is there anyway for atmos to turn them on?
+OOC: Mario Sullivan/Gurmil : Not remotely.. i don&#39;t think
+OOC: Frank Ivanov/Electroncis111 : can you click on them?
+OOC: Mario Sullivan/Gurmil : Hmm.. no
+OOC: Frank Ivanov/Electroncis111 : hmm
+OOC: Mario Sullivan/Gurmil : can&#39;t turn them on in-game
+OOC: Frank Ivanov/Electroncis111 : weird
+OOC: Mario Sullivan/Gurmil : I think atmos alarms should be hackable to enable/disable vents/scrubbers
+OOC: Mario Sullivan/Gurmil : As well as emergency fill and the opposite
+ADMIN: Electroncis111/(Dave Smith) modified Frank Ivanov's real_name to Dave Smith
+OOC: Mario Sullivan/Gurmil : much like the apcs work for power
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : yeah
+ADMIN: Electroncis111/(Dave Smith) modified Frank Ivanov's ID Card (Captain)'s name to Dave Smith
+OOC: Mario Sullivan/Gurmil : Wow your ship is uhh.. well stocked
+OOC: Mario Sullivan/Gurmil : For like 50 people :P
+OOC: Mario Sullivan/Gurmil : Especially security
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : :P
+ADMIN: Electroncis111/(Dave Smith) modified Dave Smith (as Frank Ivanov)'s name to Dave Smith
+OOC: Mario Sullivan/Gurmil : HoS doesn&#39;t have detective access
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : not again...
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : one mo
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : code diving :P
+OOC: Mario Sullivan/Gurmil : No cargo bay?
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : not yet
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : and HS fixed
+OOC: Mario Sullivan/Gurmil : good
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : easy two words you have to put in
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : well joined
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : : access_forensics_lockers
+OOC: Emily West/Bubble Wrap : Cant seem to find the disposal systems outlet, all the pipes I can see lead to  disposal units :P
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : oh yeah
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : no disposal...yet
+OOC: Mario Sullivan/Gurmil : Wow your atmos is huge
+OOC: Mario Sullivan/Gurmil : And tons of cannisters/supplies :P
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : you think so?
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : you should have seen my last atmos :P
+OOC: Mario Sullivan/Gurmil : Yeah.. there are way too many scrubbers/pumps
+OOC: Mario Sullivan/Gurmil : Probably too many cannisters too :P
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : nah
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : brb
+OOC: Mario Sullivan/Gurmil : So uhh.. where do we escape from? :P
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : we don&#39;t :P
+OOC: Mario Sullivan/Gurmil : Haha
+OOC: Mario Sullivan/Gurmil : Left here to die
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : yet
+OOC: Emily West/Bubble Wrap : Toxins mass driver and a closet?
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : ????
+ACCESS: Login: Piratedoc/(Piratedoc) from 87.194.92.108
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : there is a test chamber
+ACCESS: Logout: *no client*/(Piratedoc)
+ACCESS: Login: Piratedoc/(Parker Clarke) from 87.194.92.108
+OOC: Emily West/Bubble Wrap : Damn :P
+OOC: Parker Clarke/Piratedoc : ooh cool ship
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : I&#39;m making myself lost :P
+OOC: Mario Sullivan/Gurmil : Umm what&#39;s with the photos in the hallway?
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : Piratedoc, is this on the hub?
+OOC: Parker Clarke/Piratedoc : huh?
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : how did you find about this server?
+OOC: Parker Clarke/Piratedoc : Im dancer lol
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+OOC: Parker Clarke/Piratedoc : XD
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : what pics?
+OOC: Mario Sullivan/Gurmil : In security
+OOC: Mario Sullivan/Gurmil : Heh..
+OOC: Mario Sullivan/Gurmil : Someone had fun with the camera
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : yeah
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : hmm
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : oh
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : medbay upadte ain&#39;t pushed
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : ok keep throwing stuff that needs to be here
+OOC: Mario Sullivan/Gurmil : brb
+OOC: Mario Sullivan/Gurmil : well, possibly a morgue.. definitely a cargo bay/qm area
+OOC: Mario Sullivan/Gurmil : And incinerator
+SAY: Parker Clarke/Piratedoc : Where&#39;s toxins?
+ADMIN: Electroncis111/(Dave Smith) modified Dave Smith (as Frank Ivanov)'s x to 95
+SAY: Dave Smith (as Frank Ivanov)/Electroncis111 : in here :P
+SAY: Mario Sullivan/Gurmil : Follow me.
+SAY: Parker Clarke/Piratedoc : oh
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : ok massive lag coming
+ADMIN: Electroncis111/(Dave Smith) made all areas powered
+ADMIN: Electroncis111/(Dave Smith) used secret power
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : ok
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : medbay has power
+ADMIN: Electroncis111/(Dave Smith) modified Medical APC's cell_type to 100000
+SAY: Parker Clarke/Piratedoc : yay
+OOC: Emily West/Bubble Wrap : HoP can access toxins and robotics, but not genetics or chemistry?
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : really?
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : from what entrance?
+ADMIN: Electroncis111/(Dave Smith) modified Medical APC's chargecount to 10000
+OOC: Emily West/Bubble Wrap : The glass airlocks, I can get in through maintenance
+ADMIN: Electroncis111/(Dave Smith) modified Medical APC's charging to 1
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/crowbar
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/cable_coil
+ADMIN: Electroncis111/(Dave Smith) deleted the table at (104,117,1)
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : hmm
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : probably the ID
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : I might change that sometime
+SAY: Parker Clarke/Piratedoc : That sucked
+SAY: Parker Clarke/Piratedoc : I juust breathed in pure plasma
+SAY: Emily West/Bubble Wrap : Oops
+SAY: Parker Clarke/Piratedoc : yep
+ADMIN: Electroncis111/(Dave Smith) healed / revived Electroncis111/(Dave Smith)
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/clothing/gloves/yellow
+SAY: Dave Smith (as Frank Ivanov)/Electroncis111 : ; medbay APC now has power
+OOC: Dave Smith (as Frank Ivanov)/Electroncis111 : anyone found the bridge yet?
+OOC: Parker Clarke/Piratedoc : I did I think
+OOC: Mario Sullivan/Gurmil : Yeah, i was on the bridge
+OOC: Mario Sullivan/Gurmil : It&#39;s weird to have a bridge with no window to space
+OOC: Parker Clarke/Piratedoc : HEAT SHIELD IN TOXINS DOESNT WORK
+OOC: Frank Ivanov/Electroncis111 : ther isn&#39;t one
+SAY: Mario Sullivan/Gurmil : Heh.
+SAY: Parker Clarke/Piratedoc : Ow
+SAY: Parker Clarke/Piratedoc : That sucked
+SAY: Mario Sullivan/Gurmil : Looks like it.
+SAY: Frank Ivanov/Electroncis111 : couple of non useful computers
+OOC: Parker Clarke/Piratedoc : how are you meant to heat plasma?
+OOC: Frank Ivanov/Electroncis111 : one mo
+OOC: Mario Sullivan/Gurmil : Heh.. couldn&#39;t save you
+OOC: Parker Clarke/Piratedoc : could you res me? XD
+OOC: Mario Sullivan/Gurmil : That looked like a helluva explosion
+OOC: Parker Clarke/Piratedoc : It was lol
+OOC: Mario Sullivan/Gurmil : I&#39;m sure electronics can
+ADMIN: Electroncis111/(Dave Smith) healed / Rrvived Piratedoc/(Parker Clarke)
+OOC: Frank Ivanov/Electroncis111 : well
+SAY: Parker Clarke/Piratedoc : yay
+ADMIN: Electroncis111/(Dave Smith) jumped to Piratedoc/(Parker Clarke)
+SAY: Parker Clarke/Piratedoc : That sucked
+SAY: Frank Ivanov/Electroncis111 : woah
+ADMIN: Electroncis111/(Dave Smith) has toggled Electroncis111/(Dave Smith)'s nodamage to On
+SAY: Mario Sullivan/Gurmil : Pipes burst because of the pressure.
+ADMIN: Electroncis111/(Dave Smith) modified Frank Ivanov's x to 142
+SAY: Frank Ivanov/Electroncis111 : nasty
+ADMIN: Electroncis111/(Dave Smith) deleted Portable Air Pump at (135,148,1)
+ADMIN: Electroncis111/(Dave Smith) deleted Portable Air Pump at (135,148,1)
+SAY: Frank Ivanov/Electroncis111 : lol
+SAY: Frank Ivanov/Electroncis111 : also police batons
+SAY: Frank Ivanov/Electroncis111 : work well
+OOC: Mario Sullivan/Gurmil : I saw them in the code
+OOC: Mario Sullivan/Gurmil : But seem useless
+SAY: Frank Ivanov/Electroncis111 : like REALLY well
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/mousetrap/armed
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/mousetrap/armed
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/mousetrap/armed
+OOC: Mario Sullivan/Gurmil : You need a door to cryo prep from in here
+OOC: Frank Ivanov/Electroncis111 : oh and the pipes burst:P
+OOC: Mario Sullivan/Gurmil : Like right here
+ADMIN: Electroncis111/(Dave Smith) deleted the wall at (124,116,1)
+SAY: Frank Ivanov/Electroncis111 : whoops
+ADMIN: Electroncis111/(Dave Smith) created a /obj/machinery/bot/floorbot
+OOC: Frank Ivanov/Electroncis111 : hmm pipes went
+OOC: Mario Sullivan/Gurmil : why would they burst?
+OOC: Mario Sullivan/Gurmil : should be no pressure
+SAY: Parker Clarke/Piratedoc : Thanks man
+SAY: Parker Clarke/Piratedoc : saved my ass
+SAY: Emily West/Bubble Wrap : First time its ever worked
+SAY: Frank Ivanov/Electroncis111 : what?
+SAY: Emily West/Bubble Wrap : CPR
+SAY: Frank Ivanov/Electroncis111 : lol
+SAY: Frank Ivanov/Electroncis111 : hi
+SAY: Parker Clarke/Piratedoc : Hey man
+SAY: Frank Ivanov/Electroncis111 : NOM NOM NOM
+ADMIN: Electroncis111/(Dave Smith) teleported Piratedoc/(Parker Clarke)
+SAY: Parker Clarke/Piratedoc : Hehe
+ADMIN: Electroncis111/(Dave Smith) teleported Piratedoc/(Parker Clarke)
+ADMIN: Electroncis111/(Dave Smith) teleported Piratedoc/(Parker Clarke)
+ADMIN: Electroncis111/(Dave Smith) teleported Piratedoc/(Parker Clarke)
+ADMIN: Electroncis111/(Dave Smith) jumped to Piratedoc/(Parker Clarke)
+OOC: Parker Clarke/Piratedoc : well this didnt turn out too well
+OOC: Frank Ivanov/Electroncis111 : one mo
+ADMIN: Electroncis111/(Dave Smith) teleported Piratedoc/(Parker Clarke) to Medical Research
+ADMIN: Electroncis111/(Dave Smith) jumped to Piratedoc/(Parker Clarke)
+SAY: Parker Clarke/Piratedoc : Warm me up
+ADMIN: Electroncis111/(Dave Smith) healed / revived Piratedoc/(Parker Clarke)
+ADMIN: Electroncis111/(Dave Smith) healed / revived Electroncis111/(Dave Smith)
+SAY: Frank Ivanov/Electroncis111 : hmm
+ADMIN: Electroncis111/(Dave Smith) modified Frank Ivanov's bodytemperature to 400
+SAY: Parker Clarke/Piratedoc : yay
+ADMIN: Electroncis111/(Dave Smith) modified Parker Clarke's bodytemperature to 330
+SAY: Frank Ivanov/Electroncis111 : good?
+SAY: Parker Clarke/Piratedoc : Very
+SAY: Frank Ivanov/Electroncis111 : stand here
+ADMIN: Electroncis111/(Dave Smith) modified Parker Clarke's y to 139
+SAY: Frank Ivanov/Electroncis111 : oh
+SAY: Parker Clarke/Piratedoc : wow
+SAY: Parker Clarke/Piratedoc : WHY DOES THIS ROOM EVEN EXIST?
+ADMIN: Electroncis111/(Dave Smith) teleported Electroncis111/(Dave Smith) to Janitors Closet
+OOC: Mario Sullivan/Gurmil : Good question :P
+OOC: Parker Clarke/Piratedoc : why does this room exsist?
+OOC: Frank Ivanov/Electroncis111 : oh your not there :P
+ADMIN: Electroncis111/(Dave Smith) jumped to Piratedoc/(Parker Clarke)
+SAY: Frank Ivanov/Electroncis111 : solars
+SAY: Parker Clarke/Piratedoc : Not this one
+ACCESS: Logout: Bubble Wrap/(Emily West)
+OOC: Frank Ivanov/Electroncis111 : I think it&#39;s time to have some fun :P
+ADMIN: Electroncis111/(Dave Smith) used secret toxic
+OOC: Parker Clarke/Piratedoc : uh oh
+ADMIN: Electroncis111/(Dave Smith) used secret fakeguns
+SAY: Frank Ivanov/Electroncis111 : oh no!
+ADMIN: Electroncis111/(Dave Smith) used secret schoolgirl
+SAY: Parker Clarke/Piratedoc : Guns
+ACCESS: Logout: Gurmil/(Mario Sullivan)
+SAY: Parker Clarke/Piratedoc : Guns everwhere
+SAY: Frank Ivanov/Electroncis111 : well actually no
+SAY: Parker Clarke/Piratedoc : I know
+ADMIN: Electroncis111/(Dave Smith) used secret wave
+ADMIN: Electroncis111/(Dave Smith) used secret retardify
+SAY: Parker Clarke/Piratedoc : Hehehe
+SAY: Parker Clarke/Piratedoc : Im an anime
+SAY: Emily West/Bubble Wrap : THe saiyans screwed
+SAY: Parker Clarke/Piratedoc : gdoruge mellens is grifing me HAL;P!!!
+SAY: Emily West/Bubble Wrap : can u give me eppilapse?
+SAY: Emily West/Bubble Wrap : IM A PONY NEEEEEEIIIIIIIIIGH
+OOC: Parker Clarke/Piratedoc : No disposal ending
+OOC: Frank Ivanov/Electroncis111 : nope
+SAY: Parker Clarke/Piratedoc : Bi is THE BEST OF BOTH WORLDS&gt;
+SAY: Parker Clarke/Piratedoc : Bi is THE BEST OF BOTH WORLDS&gt;
+SAY: Frank Ivanov/Electroncis111 : lol
+SAY: Parker Clarke/Piratedoc : can u give me telikesis?
+SAY: Parker Clarke/Piratedoc : can u give me telikesis?
+SAY: Parker Clarke/Piratedoc : I WANNA PET TEH MONKIES
+SAY: Parker Clarke/Piratedoc : lol
+OOC: Frank Ivanov/Electroncis111 : well I think thta marks the end
+SAY: Parker Clarke/Piratedoc : lol
+SAY: Parker Clarke/Piratedoc : can u give me halk?
+OOC: Parker Clarke/Piratedoc : sure
+OOC: Parker Clarke/Piratedoc : cool stuff
+OOC: Frank Ivanov/Electroncis111 : got to fix these problemmos
+OOC: Frank Ivanov/Electroncis111 : and coming down in...
+SAY: Frank Ivanov/Electroncis111 : stop grifing me!!!!
+OOC: Frank Ivanov/Electroncis111 : 5
+SAY: Parker Clarke/Piratedoc : SOTP IT#
+SAY: Parker Clarke/Piratedoc : sure
+OOC: Frank Ivanov/Electroncis111 : 4
+OOC: Frank Ivanov/Electroncis111 : 3
+ACCESS: Logout: Piratedoc/(Parker Clarke)
+OOC: Frank Ivanov/Electroncis111 : 2
+SAY: Parker Clarke/Piratedoc : stop grifing me!!!!
+OOC: Frank Ivanov/Electroncis111 : 1
+ACCESS: Logout: Electroncis111/(Dave Smith)

@@ -1,0 +1,142 @@
+
+
+Starting up. 17:22.58
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from localhost
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ACCESS: Logout: Electroncis111/(Bob Marley)
+
+
+Starting up. 19:40.57
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from localhost
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ADMIN: Electroncis111/(Bob Marley) has toggled Electroncis111/(Bob Marley)'s nodamage to On
+ADMIN: Electroncis111/(Bob Marley) created a /obj/spawner/bomb/timer
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/flashbang
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/clothing/ears/earmuffs
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : SHIT
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : test
+ADMIN: Electroncis111/(Bob Marley) created 4ea /obj/item/weapon/flashbang
+SAY: Bob Marley/Electroncis111 : test
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's deafness to 0
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : hello
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's deafness to 1
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : SHIT
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's deafness to -1
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : SHIT
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's deafness to 2
+SAY: Bob Marley/Electroncis111 : test
+ADMIN: Electroncis111/(Bob Marley) created a /mob/living/carbon/human
+SAY: Bob Marley/Electroncis111 : test
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's ear_deaf to 0
+SAY: Bob Marley/Electroncis111 : test
+SAY: Bob Marley/Electroncis111 : hahahaha
+ADMIN: Electroncis111/(Bob Marley) made *no client*/(monkey (675)) drop everything!
+ADMIN: Electroncis111/(Bob Marley) created a /obj/spawner/bomb/timer
+SAY: Bob Marley/Electroncis111 : test
+ADMIN: Electroncis111/(Bob Marley) initiated an immediate reboot.
+ACCESS: Logout: Electroncis111/(Bob Marley)
+
+
+Starting up. 20:08.28
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from localhost
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ADMIN: Electroncis111/(Bob Marley) has toggled Electroncis111/(Bob Marley)'s nodamage to On
+ADMIN: Electroncis111/(Bob Marley) created a /obj/spawner/bomb/timer
+ADMIN: Electroncis111/(Bob Marley) created a /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/clothing/mask/gas/swat
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/tank/jetpack
+ADMIN: Electroncis111/(Bob Marley) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Bob Marley) created a /obj/machinery/portable_atmospherics/canister/toxins
+ADMIN: Electroncis111/(Bob Marley) created a /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/wrench
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/weldingtool
+ADMIN: Electroncis111/(Bob Marley) created 5ea /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Bob Marley) created 5ea /obj/machinery/portable_atmospherics/canister/oxygen
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/crowbar
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/chem_grenade
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/chem_grenade/cleaner
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/chem_grenade/metalfoam
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/crowbar
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/dnainjector/clumsymut
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/pen/sleepypen
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/reagent_containers/pill/tox
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/reagent_containers/pill/tox
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/reagent_containers/pill/tox
+ADMIN: Electroncis111/(Bob Marley) created 5ea /obj/item/weapon/incendiarygrenade
+ADMIN: Electroncis111/(Bob Marley) sent *no client*/(Mrs Muggles) to the prison station.
+ACCESS: Logout: *no client*/(Bob Marley)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ADMIN: Electroncis111/(Bob Marley) modified floor's heat_capacity to 9999
+ADMIN: Electroncis111/(Bob Marley) modified floor's toxins to 9999
+ADMIN: Electroncis111/(Bob Marley) modified floor's temperature to 1000
+ADMIN: Electroncis111/(Bob Marley) modified Mrs Muggles's y to 130
+
+
+Starting up. 20:32.33
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from localhost
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ADMIN: Electroncis111/(Bob Marley) has toggled Electroncis111/(Bob Marley)'s nodamage to On
+ADMIN: Electroncis111/(Bob Marley) removed keelin from the goonlist.
+ADMIN: Electroncis111/(Bob Marley) created 100ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created 20ea /mob/living/carbon/monkey
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/mustardbomb
+ADMIN: Electroncis111/(Bob Marley) created a /obj/spawner/newbomb/timer
+ADMIN: Electroncis111/(Bob Marley) created a /obj/spawner/newbomb/timer
+ACCESS: Logout: Electroncis111/(Bob Marley)

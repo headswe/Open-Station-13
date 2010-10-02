@@ -1,0 +1,122 @@
+
+
+Starting up. 19:49.49
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Dave Smith) from 127.0.0.1
+ACCESS: Logout: Electroncis111/(Dave Smith)
+
+
+Starting up. 20:21.19
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Dave Smith) from 127.0.0.1
+ACCESS: Login: Bubble Wrap/(Bubble Wrap) from 86.150.228.158
+ACCESS: Logout: *no client*/(Bubble Wrap)
+ACCESS: Login: Bubble Wrap/(Emily West) from 86.150.228.158
+OOC: Emily West/Bubble Wrap : Janitor doesnt seem to have a bucket or a mop bucket
+OOC: Dave Smith/Electroncis111 : really?
+OOC: Dave Smith/Electroncis111 : not even in the closet?
+ADMIN: Electroncis111/(Dave Smith) jumped to Bubble Wrap/(Emily West)
+SAY: Dave Smith/Electroncis111 : hmm
+SAY: Dave Smith/Electroncis111 : Imma adding it
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/reagent_containers/glass/bucket
+ADMIN: Electroncis111/(Dave Smith) created a /obj/mopbucket
+SAY: Emily West/Bubble Wrap : Thanks, now to mop the important corridors
+SAY: Emily West/Bubble Wrap : Also, its possible to take the spare IDs off the counter at arrivals from the outside
+SAY: Dave Smith/Electroncis111 : hmm
+SAY: Dave Smith/Electroncis111 : added to map
+OOC: Dave Smith/Electroncis111 : that&#39;s one thing I forgot
+OOC: Dave Smith/Electroncis111 : the massdriver button
+OOC: Emily West/Bubble Wrap : Janitor can get into security hq through maintenance
+OOC: Dave Smith/Electroncis111 : yeah I know about the access problems
+ADMIN: Electroncis111/(Dave Smith) created a /obj/machinery/driver_button
+ADMIN: Electroncis111/(Dave Smith) modified Mass Driver Button's id to "chapelgun"
+ADMIN: Electroncis111/(Dave Smith) modified Mass Driver Button's pixel_y to 24
+ADMIN: Electroncis111/(Dave Smith) jumped to Bubble Wrap/(Emily West)
+OOC: Emily West/Bubble Wrap : You should add buttons so someone can lock the cabins while inside
+OOC: Dave Smith/Electroncis111 : hmm
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/card/id/captains_spare
+OOC: Dave Smith/Electroncis111 : added to todo list
+SAY: Dave Smith/Electroncis111 : that massdirver butt dones&#39;t work
+SAY: Emily West/Bubble Wrap : Fixer it!
+SAY: Dave Smith/Electroncis111 : I spawned it and it didn&#39;t link
+SAY: Emily West/Bubble Wrap : Match the ID up?
+SAY: Dave Smith/Electroncis111 : yeah
+ADMIN: Electroncis111/(Dave Smith) modified Mass Driver Button's dir to 1
+ADMIN: Electroncis111/(Dave Smith) modified Mass Driver Button's id to chapelgun
+SAY: Dave Smith/Electroncis111 : ahh
+SAY: Dave Smith/Electroncis111 : I acidentaly put quotes in
+OOC: Emily West/Bubble Wrap : Courtroom apc is unpowered
+OOC: Dave Smith/Electroncis111 : really?
+ADMIN: Electroncis111/(Dave Smith) jumped to Bubble Wrap/(Emily West)
+SAY: Dave Smith/Electroncis111 : hmmm
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/crowbar
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/clothing/gloves/yellow
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/device/multitool
+SAY: Dave Smith/Electroncis111 : ahh
+SAY: Dave Smith/Electroncis111 : fixed
+SAY: Emily West/Bubble Wrap : Missing cable?
+ADMIN: Electroncis111/(Dave Smith) created a /obj/item/weapon/cable_coil
+SAY: Dave Smith/Electroncis111 : yeah
+SAY: Dave Smith/Electroncis111 : when I placed the door
+ADMIN: Electroncis111/(Dave Smith) deleted the cable coil at (72,133,1)
+SAY: Dave Smith/Electroncis111 : that&#39;s open acces
+SAY: Emily West/Bubble Wrap : Itd
+SAY: Emily West/Bubble Wrap : Its dead
+SAY: Dave Smith/Electroncis111 : one mo
+SAY: Dave Smith/Electroncis111 : ok
+SAY: Dave Smith/Electroncis111 : now try
+SAY: Dave Smith/Electroncis111 : I don&#39;t know about law that much
+OOC: Dave Smith/Electroncis111 : WEEE disposal units
+OOC: Dave Smith/Electroncis111 : don&#39;t worry it doesn&#39;t go to like the incinerator or anything :)
+OOC: Dave Smith/Electroncis111 : oh come on
+OOC: Dave Smith/Electroncis111 : bloody glass heat shielding
+ADMIN: Electroncis111/(Dave Smith) healed / revived Electroncis111/(Dave Smith)
+ADMIN: Electroncis111/(Dave Smith) has toggled Electroncis111/(Dave Smith)'s nodamage to On
+OOC: Emily West (as Captain)/Bubble Wrap : How do I flush myself down disposal?
+OOC: Dave Smith/Electroncis111 : I really need to make some heat shielding
+OOC: Dave Smith/Electroncis111 : click the disposal unit,
+OOC: Dave Smith/Electroncis111 : drag youself in
+OOC: Dave Smith/Electroncis111 : and flush or whatever it is
+OOC: Emily West (as Captain)/Bubble Wrap : Weeeeee
+OOC: Dave Smith/Electroncis111 : I&#39;ll toggle your no famage on
+ADMIN: Electroncis111/(Dave Smith) has toggled Bubble Wrap/(Emily West)'s nodamage to On
+SAY: Emily West (as Captain)/Bubble Wrap : Hot in here
+SAY: Dave Smith/Electroncis111 : yeah
+SAY: Dave Smith/Electroncis111 : I toggled your no damage on
+SAY: Dave Smith/Electroncis111 : glass isn&#39;t heat resistant
+SAY: Dave Smith/Electroncis111 : oh shit
+SAY: Emily West (as Captain)/Bubble Wrap : Were in an incinerator?
+SAY: Dave Smith/Electroncis111 : hmm they break
+SAY: Dave Smith/Electroncis111 : pipe broke
+ADMIN: Electroncis111/(Dave Smith) deleted the hotspot at (130,105,1)
+SAY: Dave Smith/Electroncis111 : well
+SAY: Dave Smith/Electroncis111 : well need to fix that
+SAY: Emily West (as Captain)/Bubble Wrap : No jetpacks?
+SAY: Dave Smith/Electroncis111 : ohhhhh
+SAY: Dave Smith/Electroncis111 : fixed
+OOC: Dave Smith/Electroncis111 : ok I might crash the server in a mo
+SAY: Dave Smith/Electroncis111 : now
+SAY: Dave Smith/Electroncis111 : smeone said the server crashed
+SAY: Dave Smith/Electroncis111 : after they pressed a button
+SAY: Dave Smith/Electroncis111 : in here
+OOC: Dave Smith/Electroncis111 : here we go

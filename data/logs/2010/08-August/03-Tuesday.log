@@ -1,0 +1,85 @@
+
+
+Starting up. 19:48.14
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from 127.0.0.1
+SAY: Bob Marley/Electroncis111 : ;TITS
+SAY: Bob Marley/Electroncis111 : ;CUNT
+SAY: Bob Marley/Electroncis111 : SHIT
+SAY: Bob Marley/Electroncis111 : ;COCKSUCKER
+SAY: Bob Marley/Electroncis111 : CUNT
+SAY: Bob Marley/Electroncis111 : CUNT
+SAY: Bob Marley/Electroncis111 : ;MOTHERFUCKER
+SAY: Bob Marley/Electroncis111 : PISS
+SAY: Bob Marley/Electroncis111 : TITS
+SAY: Bob Marley/Electroncis111 : ;SHIT
+SAY: Bob Marley/Electroncis111 : COCKSUCKER
+SAY: Bob Marley/Electroncis111 : ;FUCK
+SAY: Bob Marley/Electroncis111 : FUCK
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's r_Tourette to 0
+SAY: Bob Marley/Electroncis111 : COCKSUCKER
+SAY: Bob Marley/Electroncis111 : SHIT
+SAY: Bob Marley/Electroncis111 : ;FUCK
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's stunned to 0
+ADMIN: Electroncis111/(Bob Marley) healed / revived Electroncis111/(Bob Marley)
+SAY: Bob Marley/Electroncis111 : ;MOTHERFUCKER
+ADMIN: Electroncis111/(Bob Marley) healed / revived Electroncis111/(Bob Marley)
+SAY: Bob Marley/Electroncis111 : ;COCKSUCKER
+ADMIN: Electroncis111/(Bob Marley) healed / revived Electroncis111/(Bob Marley)
+ADMIN: DEBUG: Electroncis111/(Bob Marley)  next_move = 8712  lastDblClick = 8895  world.time = 8984
+ADMIN: DEBUG: Electroncis111/(Bob Marley)  next_move = 9102  lastDblClick = 9116  world.time = 9128
+SAY: Bob Marley/Electroncis111 : ;MOTHERFUCKER
+SAY: Bob Marley/Electroncis111 : MOTHERFUCKER
+ADMIN: Electroncis111/(Bob Marley) healed / Rrvived Electroncis111/(Bob Marley)
+SAY: Bob Marley/Electroncis111 : ;MOTHERFUCKER
+SAY: Bob Marley/Electroncis111 : ;MOTHERFUCKER
+ACCESS: Logout: Electroncis111/(Bob Marley)
+
+
+Starting up. 20:04.42
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from 127.0.0.1
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/dnainjector/xraymut
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's blindness to 0
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's blinded to 0
+ADMIN: Electroncis111/(Bob Marley) healed / revived Electroncis111/(Bob Marley)
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's eye_blind to 0
+ACCESS: Logout: Electroncis111/(Bob Marley)
+
+
+Starting up. 20:15.02
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from 127.0.0.1
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from 127.0.0.1
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's see_invisible to 1
+ADMIN: Electroncis111/(Bob Marley) modified Bob Marley's see_in_dark to 1
+ACCESS: Logout: Electroncis111/(Bob Marley)

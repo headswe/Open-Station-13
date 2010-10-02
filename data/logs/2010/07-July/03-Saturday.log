@@ -1,0 +1,49 @@
+
+
+Starting up. 18:11.48
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from localhost
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ADMIN: Electroncis111/(Bob Marley) jumped to *no client*/(monkey (901))
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/weapon/chem_grenade
+ADMIN: Electroncis111/(Bob Marley) created a /obj/item/assembly/time_ignite
+ACCESS: Logout: Electroncis111/(Bob Marley)
+
+
+Starting up. 18:47.00
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Guest-2582427111/(Guest-2582427111) from localhost
+ACCESS: Logout: Guest-2582427111/(Guest-2582427111)
+
+
+Starting up. 18:48.19
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Electroncis111/(Electroncis111) from localhost
+ADMIN: Electroncis111 has started the game.
+ACCESS: Logout: *no client*/(Electroncis111)
+ACCESS: Login: Electroncis111/(Bob Marley) from localhost
+ADMIN: Electroncis111/(Bob Marley) jumped to *no client*/(monkey (768))
+ACCESS: Logout: Electroncis111/(Bob Marley)
