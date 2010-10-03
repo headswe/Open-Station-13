@@ -39,7 +39,8 @@
 
 		else if (C.listen_ooc)
 			C << "<span class=\"ooc\"><span class=\"prefix\">OOC:</span> <span class=\"name\">[src.client.stealth ? src.client.fakekey : src.key]:</span> <span class=\"message\">[msg]</span></span>"
-
+//ADMIN: removing this s*** might add a different channel sometime
+/*
 /mob/verb/goonsay(msg as text)
 	if (!src.client.authenticated || !src.client.goon)
 		src << "You are not authorized to communicate over these channels."
@@ -65,3 +66,4 @@
 					C << "<span class=\"admingoonsay\"><span class=\"prefix\">GOONSAY:</span> <span class=\"name\">[src.key][src.client.stealth ? "/([src.client.fakekey])" : ""]:</span> <span class=\"message\">[msg]</span></span>"
 			else if(C.listen_ooc)
 				C << "<span class=\"goonsay\"><span class=\"prefix\">GOONSAY:</span> <span class=\"name\">[src.client.stealth ? src.client.fakekey : src.key]:</span> <span class=\"message\">[msg]</span></span>"
+*/

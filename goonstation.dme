@@ -148,7 +148,6 @@
 #include "code\ATMOSPHERICS\components\unary\vent_pump.dm"
 #include "code\ATMOSPHERICS\components\unary\vent_scrubber.dm"
 #include "code\datums\ai_laws.dm"
-#include "code\datums\chemical.dm"
 #include "code\datums\computerfiles.dm"
 #include "code\datums\configuration.dm"
 #include "code\datums\datumvars.dm"

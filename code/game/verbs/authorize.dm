@@ -1,3 +1,5 @@
+//ADMIN: remove this hopefully it won't fuck up stuff
+/*
 /client/proc/authorize()
 	set name = "Authorize"
 
@@ -162,3 +164,4 @@ var/list/beta_tester_keylist
 		goon_savefile()
 		return 1
 	return 0
+*/

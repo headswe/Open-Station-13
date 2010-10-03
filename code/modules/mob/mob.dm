@@ -1654,10 +1654,11 @@
 	if (join_motd)
 		src << "<div class=\"motd\">[join_motd]</div>"
 
-	src.authorize()
+//ADMIN: this gone due to removal of goon auth
+/*	src.authorize()
 	src.goonauth()
 	src.beta_tester_auth()
-
+*/
 	src.update_world()
 
 //new admin bit - Nannek
