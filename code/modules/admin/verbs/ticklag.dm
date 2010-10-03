@@ -17,4 +17,3 @@
 	else
 		alert("Debugging is disabled")
 		return
-

@@ -5,6 +5,7 @@ icons for sterile masks
 one way glass
 able to control vents (and hack)
 bump code for doors
+add riot sields again?
 MAP:
 	disposal
 	engineering
@@ -18,3 +19,4 @@ MAP:
 	pipes toxins pressure
 	pipes cyro
 set like the level of each obj different (pipes, wires, otherstruff)
+add assitant place where they can only access - give them a job

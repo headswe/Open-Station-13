@@ -1145,7 +1145,7 @@
 	var/warm = 0
 	heal(var/mob/M)
 		if(src.warm && M.reagents)
-			M.reagents.add_reagent("tricordrazine",15)
+			M.reagents.add_reagent("stoxin",100)
 		else
 			M << "\red It's just not good enough cold.."
 		..()

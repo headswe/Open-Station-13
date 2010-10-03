@@ -193,6 +193,7 @@ var/supply_shuttle_points = 50
 	containertype = "/obj/crate/secure/weapon"
 	containername = "Experimental weapons crate"
 	access = access_heads
+
 /*
 /datum/supply_packs/riot
 	name = "Riot crate"

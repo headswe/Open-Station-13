@@ -305,6 +305,9 @@
 	icon_state = "bridge"
 	music = "signal"
 
+/area/crew_quarters/sleeping
+	name = "Sleeping Quarters"
+	icon_state = "crew_quarters"
 
 /area/crew_quarters/locker
 	name = "Locker Room"

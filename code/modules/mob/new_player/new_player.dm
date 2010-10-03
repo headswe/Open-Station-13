@@ -88,18 +88,22 @@ mob/new_player
 			return 1
 
 		if(href_list["ready"])
+			/*
 			if (!usr.client.authenticated)
 				src << "You are not authorized to enter the game."
 				return
+				*/
 
 			if(!ready)
 				if(alert(src,"Are you sure you are ready? This will lock-in your preferences.","Player Setup","Yes","No") == "Yes")
 					ready = 1
 
 		if(href_list["observe"])
+			/*
 			if (!usr.client.authenticated)
 				src << "You are not authorized to enter the game."
 				return
+			*/
 
 			if(alert(src,"Are you sure you wish to observe? You will not be able to play this round!","Player Setup","Yes","No") == "Yes")
 				var/mob/dead/observer/observer = new()
@@ -121,9 +125,11 @@ mob/new_player
 			LateChoices()
 
 		if(href_list["SelectedJob"])
+			/*
 			if (!usr.client.authenticated)
 				src << "You are not authorized to enter the game."
 				return
+			*/
 
 			if (!enter_allowed)
 				usr << "\blue There is an administrative lock on entering the game!"
